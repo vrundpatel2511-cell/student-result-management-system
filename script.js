@@ -15,7 +15,7 @@ function calculateResult() {
     let percentage = total / 3;
 
     let result;
-    if (percentage >= 40) {
+    if (percentage >= 33) {
         result = "Pass";
     } else {
         result = "Fail";
